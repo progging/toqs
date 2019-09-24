@@ -1,0 +1,12 @@
+{
+  "name": "toqs",
+  "version": "1.0.0",
+  "description": "Makes an object into a query string.",
+  "main": "index.js",
+  "author": "robin@pettersen.dev",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ctrl-alt-null/toqs"
+  }
+}
