@@ -1,6 +1,6 @@
 {
   "name": "toqs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Makes an object into a query string.",
   "main": "index.js",
   "author": "robin@pettersen.dev",
