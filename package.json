@@ -1,6 +1,6 @@
 {
   "name": "toqs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Transforms an object to a query string.",
   "source": "dist/toqs.module.js",
   "module": "dist/toqs.module.js",
@@ -30,6 +30,6 @@
     "microbundle": "^0.12.3",
     "mocha": "^8.1.1",
     "ts-node": "^8.10.2",
-    "typescript": "^3.9.7"
+    "typescript": "^4.0.2"
   }
 }
