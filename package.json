@@ -1,6 +1,6 @@
 {
   "name": "toqs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Transforms an object to a query string.",
   "source": "dist/toqs.module.js",
   "module": "dist/toqs.module.js",
